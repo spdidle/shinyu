@@ -4615,7 +4615,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Plug_ShenzhenJingTuoJin_918-118A2021Y40002_Vertical"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4085"
 			(at 63.5 60.96 0)
 			(effects
 				(font
