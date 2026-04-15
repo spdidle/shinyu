@@ -1,5 +1,3 @@
-# shinyu
+# a-side
 
-MY BROTHER!!!
-
-a homage to todo aoi coming soon
+inspo from 完ペキな a side side side の方も elite ball knowledge if u catch this one
