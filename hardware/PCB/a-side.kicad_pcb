@@ -51,7 +51,6 @@
 		)
 		(capping no)
 		(filling no)
-		(grid_origin 99.22 50.38)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -540,6 +539,7 @@
 		(property "Value" "TYPE-C 16PIN 2MD"
 			(at 0 6.375 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "f5926777-a0a7-47b4-81e6-b4bf763fd615")
 			(effects
 				(font
@@ -6350,6 +6350,7 @@
 		(property "Value" "MountingHole_3.2mm_M3"
 			(at 0 4.15 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "0f6fa3dd-9652-46ad-9505-0225b0467907")
 			(effects
 				(font
@@ -9111,6 +9112,7 @@
 		(property "Value" "MountingHole_3.2mm_M3"
 			(at 0 4.15 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "9d59a060-d5e7-4048-88f3-9b3b0043384c")
 			(effects
 				(font
