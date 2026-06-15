@@ -33549,6 +33549,7 @@
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "64f932b8-e3cc-41e7-ad10-507fc1c67a52")
 			(effects
 				(font
