@@ -1,6 +1,7 @@
 # random
 .DS_Store
 Thumbs.db
+fp-info-cache
 
 # kicad backups
 *.bak
@@ -17,6 +18,6 @@ Thumbs.db
 *~
 
 # kicad dont pmo rn omg
-**/*fp-info-cache*
+**/fp-info-cache
 **/a-side-backups/
 **/.history/
