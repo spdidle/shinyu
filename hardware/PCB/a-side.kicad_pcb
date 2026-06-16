@@ -35,7 +35,6 @@
 	)
 	(setup
 		(pad_to_mask_clearance 0)
-		(solder_mask_min_width 0.05)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting
 			(front yes)
@@ -314,6 +313,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -1321,6 +1321,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -5269,6 +5270,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -6284,6 +6286,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)

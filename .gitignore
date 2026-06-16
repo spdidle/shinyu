@@ -1,0 +1,22 @@
+# random
+.DS_Store
+Thumbs.db
+
+# kicad backups
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.kicad_wks
+
+# temp files
+*.tmp
+*.swp
+*.lck
+*~
+
+# kicad dont pmo rn omg
+**/*fp-info-cache*
+**/pommepad-backups/
+**/.history/
